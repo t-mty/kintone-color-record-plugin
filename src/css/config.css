@@ -1,0 +1,24 @@
+.settings-heading {
+  padding: 1em 0;
+}
+
+.kintoneplugin-input-text {
+  width: 20em;
+}
+
+.td-1 .kintoneplugin-input-text {
+  width: 120px;
+}
+
+.td-2 .kintoneplugin-input-text {
+  width: 120px;
+  text-align: right;
+}
+
+.td-4 {
+  margin: 4px 0 0 10px;
+}
+
+.td-4 .kintoneplugin-select {
+  width: 130px;
+}
